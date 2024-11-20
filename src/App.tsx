@@ -10,7 +10,7 @@ const App: React.FC = () => {
             nombre: "Ana",
             edad: 25,
             foto: anaFoto,
-            descripcion: "Estudiante de React.",
+            descripcion: "Estudiante de React y Angular.",
         },
         {
             nombre: "Luis",
